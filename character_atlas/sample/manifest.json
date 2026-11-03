@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "character_id": "sample",
+  "anchor_version": "1.0",
+  "angle_convention": "negative yaw = character left cheek visible; positive pitch = head down",
+  "references": []
+}
